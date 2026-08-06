@@ -11,6 +11,7 @@ public class LargestOfTwoNum {
 		} else {
 			System.out.println("Largest number is : " + b);
 		}
+		sc.close();
 	}
 
 }

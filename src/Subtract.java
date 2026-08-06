@@ -9,6 +9,7 @@ public class Subtract {
 		int b = sc.nextInt();
 		int sub = a - b;
 		System.out.println("subtraction of a & b : " + (sub));
+		sc.close();
 	}
 
 }
